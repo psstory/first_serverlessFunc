@@ -1,0 +1,15 @@
+{
+  "name": "first_serverlessfunc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "start": "netlify-lambda serve functions",
+    "build": "netlify-lambda build functions"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "netlify-lambda": "^1.5.1"
+  }
+}
